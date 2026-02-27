@@ -1,7 +1,7 @@
 # Data Analyst Portfolio
 
 ## About
-Hi, I'm Patricia! I'm a Data Analytics graduate bringing data skills into aged care. For me, data is not just rows and numbers, it is most powerful when used ethically and purposefully in protecting the people we love. I've built work experience through customer service roles, remote freelancing with 30+ small businesses across three continents, data internship, and hands-on projects in Python, R, SQL, Tableau, and Power BI, with a strong focus on data cleaning as it is the foundation of any meaningful analysis. This is a repository to showcase my projects in aged care, where I believe data-driven tools can directly improve the lives of seniors.
+Hi, I'm Patricia! I'm a Data Analytics graduate bringing data skills into aged care. For me, data is not just rows and numbers, it is most powerful when used ethically and purposefully in protecting the people we love. I've built work experience through customer service roles, remote freelancing with 30+ small businesses across three continents, data internship, and hands-on projects in Python, R, SQL, Tableau, and Power BI, with a strong focus on data cleaning as it is the foundation of any meaningful analysis. This is a repository to showcase my projects in aged care, showing how data and tech can improve the daily lives of the elderly.
 
 ---
 
